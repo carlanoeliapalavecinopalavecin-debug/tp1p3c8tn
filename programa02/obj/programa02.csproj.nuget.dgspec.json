@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Noelia\\OneDrive\\Escritorio\\TECNICATURA NOELIA 2025\\Programación I\\Programas en C#\\programa02\\programa02.csproj": {}
+    "C:\\Users\\Noelia\\Desktop\\tp1pro3c8tn\\programa02\\programa02.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Noelia\\OneDrive\\Escritorio\\TECNICATURA NOELIA 2025\\Programación I\\Programas en C#\\programa02\\programa02.csproj": {
+    "C:\\Users\\Noelia\\Desktop\\tp1pro3c8tn\\programa02\\programa02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Noelia\\OneDrive\\Escritorio\\TECNICATURA NOELIA 2025\\Programación I\\Programas en C#\\programa02\\programa02.csproj",
+        "projectUniqueName": "C:\\Users\\Noelia\\Desktop\\tp1pro3c8tn\\programa02\\programa02.csproj",
         "projectName": "programa02",
-        "projectPath": "C:\\Users\\Noelia\\OneDrive\\Escritorio\\TECNICATURA NOELIA 2025\\Programación I\\Programas en C#\\programa02\\programa02.csproj",
+        "projectPath": "C:\\Users\\Noelia\\Desktop\\tp1pro3c8tn\\programa02\\programa02.csproj",
         "packagesPath": "C:\\Users\\Noelia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Noelia\\OneDrive\\Escritorio\\TECNICATURA NOELIA 2025\\Programación I\\Programas en C#\\programa02\\obj\\",
+        "outputPath": "C:\\Users\\Noelia\\Desktop\\tp1pro3c8tn\\programa02\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

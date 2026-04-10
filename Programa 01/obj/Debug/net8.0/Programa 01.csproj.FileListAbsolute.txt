@@ -12,3 +12,18 @@ C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Prog
 C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Programa 01\obj\Debug\net8.0\Programa 01.pdb
 C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Programa 01\obj\Debug\net8.0\Programa 01.genruntimeconfig.cache
 C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\Programa 01\obj\Debug\net8.0\ref\Programa 01.dll
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.AssemblyInfoInputs.cache
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.AssemblyInfo.cs
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.sourcelink.json
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.dll
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\refint\Programa 01.dll
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.pdb
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\bin\Debug\net8.0\Programa 01.exe
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\bin\Debug\net8.0\Programa 01.deps.json
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\bin\Debug\net8.0\Programa 01.runtimeconfig.json
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\bin\Debug\net8.0\Programa 01.dll
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\bin\Debug\net8.0\Programa 01.pdb
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\Programa 01.genruntimeconfig.cache
+C:\Users\Noelia\Desktop\tp1pro3c8tn\Programa 01\obj\Debug\net8.0\ref\Programa 01.dll
