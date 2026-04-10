@@ -1,0 +1,14 @@
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\bin\Debug\net8.0\programa05.exe
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\bin\Debug\net8.0\programa05.deps.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\bin\Debug\net8.0\programa05.runtimeconfig.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\bin\Debug\net8.0\programa05.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\bin\Debug\net8.0\programa05.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\programa05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\programa05.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\programa05.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\programa05.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\programa05.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\refint\programa05.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\programa05.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\programa05.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa05\obj\Debug\net8.0\ref\programa05.dll

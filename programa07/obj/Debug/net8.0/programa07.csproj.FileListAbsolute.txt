@@ -1,0 +1,14 @@
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\bin\Debug\net8.0\programa07.exe
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\bin\Debug\net8.0\programa07.deps.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\bin\Debug\net8.0\programa07.runtimeconfig.json
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\bin\Debug\net8.0\programa07.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\bin\Debug\net8.0\programa07.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\programa07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\programa07.AssemblyInfoInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\programa07.AssemblyInfo.cs
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\programa07.csproj.CoreCompileInputs.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\programa07.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\refint\programa07.dll
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\programa07.pdb
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\programa07.genruntimeconfig.cache
+C:\Users\Noelia\OneDrive\Escritorio\TECNICATURA NOELIA 2025\Programación I\Programas en C#\programa07\obj\Debug\net8.0\ref\programa07.dll
